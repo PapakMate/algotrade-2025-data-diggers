@@ -31,7 +31,7 @@ AlgoTrade 2025 pitted 71 teams—including several strong international entran
 * **No external data:** only live order‑book updates provided.
 
 ---
-
+ 
 ## 2  Idea evolution (chronology)
 
 | Stage              | Observation                                                                  | Decision & outcome                                                                                            |
