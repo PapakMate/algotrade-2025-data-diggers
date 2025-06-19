@@ -22,7 +22,7 @@
 
 ## 1  Competition context
 
-AlgoTrade 2025 pitted 71 teams—including several strong international entrants—against one another on a simulated high‑frequency exchange. The venue listed European calls & puts and index futures; we ignored futures after early tests, judging option mis‑pricing a far richer edge. Full mechanics—instrument universe, tick schedule, fees, position limits—are detailed in the rulebook (see `docs/AlgoTrade_task.pdf`).
+AlgoTrade 2025 pitted 71 teams—including several strong international entrants—against one another on a simulated high‑frequency exchange, making it one of the largest student hackathons in Europe. The venue listed European calls & puts and index futures; we ignored futures after early tests, judging option mis‑pricing a far richer edge. Full mechanics—instrument universe, tick schedule, fees, position limits—are detailed in the rulebook (see `docs/AlgoTrade_task.pdf`).
 
 ### Constraints of note
 
