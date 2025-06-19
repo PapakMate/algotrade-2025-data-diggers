@@ -83,7 +83,18 @@ Round 4 draw‑down came from concentrated call exposure to `$HEST`, a jump‑
 > **Q:** How was latency optimised?
 > **A:** One‑by‑one evaluation with immediate order dispatch; no multi‑processing overhead; Raspberry Pi at exchange rack.
 
-Full transcript is included in the presentation folder.
+Full Q\&A is available at the end of the video presentation.
+
+### Audio Track Notice
+
+This video includes two audio tracks:
+
+1. Cleaned audio (with background noise reduced)
+2. Original unprocessed audio
+
+Note: QuickTime Player on macOS may not play audio, as it doesn't support selecting between multiple audio tracks and may default to a silent one.
+
+For correct playback, use a media player that allows audio track selection, such as **VLC** or **IINA**.
 
 ---
 
