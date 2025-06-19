@@ -14,7 +14,7 @@
 | `docs/AlgoTrade_task.pdf`                                      | Official task & API handbook (refer here for exact rules)               |
 | `docs/Leaderboard.pdf`                                         | Final standings confirming first place                                  |
 | `docs/presentation/Data Diggers.pptx`                          | Pitch deck summarising approach                                         |
-\| [▶ Presentation recording](https://github.com/PapakMate/algotrade-2025-data-diggers/releases/download/v1.0.0-hackathon/Algotrade2025_DataDiggers_presentation.mp4) | Recording of our live presentation + Q&A (GitHub Release asset) |
+| [▶ Presentation recording](https://github.com/PapakMate/algotrade-2025-data-diggers/releases/download/v1.0.0-hackathon/Algotrade2025_DataDiggers_presentation.mp4) | Recording of our live presentation + Q&A (GitHub Release asset) |
 | `README.md`                                                    | You are here                                                            |
 | `LICENSE`                                                      | MIT licence                                                             |
 
