@@ -49,7 +49,7 @@ AlgoTrade 2025 simulated a high‑frequency options exchange. Teams started wi
 
 ```python
 fair = max(0, spot - strike) if is_call else max(0, strike - spot)
-if fair > ask_price * alpha:      # alpha ∈ [0.85, 0.95]
+if fair * alpha > ask_price:      # alpha ∈ [0.85, 0.95]
     send_buy(symbol, 1)
 ```
 
