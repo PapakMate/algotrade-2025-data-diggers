@@ -98,10 +98,10 @@ Full transcript is included in the presentation folder.
 
 | Member                                                     | Domain       |
 | ---------------------------------------------------------- | ------------ |
-| [Filip Aleksić](https://www.linkedin.com/in/filip-aleksic) | Data Science |
-| [Mate Papak](https://www.linkedin.com/in/mate-papak)       | Data Science |
-| [Niko Perica](https://www.linkedin.com/in/niko-perica)     | Statistics   |
-| [Vice Perica](https://www.linkedin.com/in/vice-perica)     | Statistics   |
+| [Filip Aleksić](https://www.linkedin.com/in/aleksicfilip) | Data Science |
+| [Mate Papak](https://www.linkedin.com/in/papakmate)       | Data Science |
+| [Niko Perica](https://www.linkedin.com/in/niko-perica-ba373a197)     | Statistics   |
+| [Vice Perica](https://www.linkedin.com/in/vice-perica-a66616163)     | Statistics   |
 
 ---
 
